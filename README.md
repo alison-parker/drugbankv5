@@ -18,3 +18,6 @@ And checksum for the contents that third parties can verify with their own versi
 ```
 07d5eb686c358d8ac12f9ce71a73c94f3abbcf85ac1dfe3278ef5c6ec1722a06f449c2ac5bbde4c3bd0d216633a78f549c1e56ad16e7134668f7aafc1bc5b12b  full database.xml
 ```
+
+### Creative Commons License 
+This database is creative commons non-commericial. So commercial developers need to get permission, but open source developers working on projects just go for it. The point of adding it here was to increase the access and get more people using this datasets in their applications or being inspired by this dataset to write software. Review https://drugbank.ca for more information. 
